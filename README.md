@@ -47,6 +47,10 @@ Created clear and insightful charts using **Matplotlib**:
 - 🔑 Displayed KPIs for **Total Sales** and **Total Profit**  
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f235bc64-d6ad-4625-bb26-5794dbcc71fe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f59d446-1950-44d7-b036-3ab01b50f109" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d62b972-2559-4956-b76a-a05ffdf93d74" />
+
 
 ## 📷 Sample Insights
 
